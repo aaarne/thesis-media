@@ -2,5 +2,5 @@ Media for my Master's Thesis
 ============================
 Arne Sachtler <arne.sachtler@tum.de>
 
-This repository contains animimations and models for my master thesis.
+This repository contains animations and models for my master thesis.
 Please find the links in the footnotes in the text.
