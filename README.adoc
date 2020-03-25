@@ -1,5 +1,6 @@
 Media for my Master's Thesis
 ============================
-Arne Sachtler <arne.sachtler@dlr.de>
+Arne Sachtler <arne.sachtler@tum.de>
 
-This repository contains animimations and models from my master thesis _Orthogonal Manifold Foliations for Impedance Control of Redundant Kinematic Structures_.
+This repository contains animimations and models for my master thesis.
+Please find the links in the footnotes in the text.
